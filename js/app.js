@@ -1,0 +1,1 @@
+var iswapp = angular.module('iswapp', ['ngAnimate', 'ui.router', 'angularFileUpload']);
